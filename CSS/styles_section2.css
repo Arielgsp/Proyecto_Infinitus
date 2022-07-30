@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+       
+}
+
+
+h2{
+    color: #07443d;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+
+.servicios{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+    gap: 80px;
+    
+}
+
+
+.servicios_1 .servicios_2 .servicios_2{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    
+}
+
+.servicios_1_picture .servicios_1_title .servicios_1_p{
+    margin-bottom: 50px;
+}
+.servicios_title{
+    text-align: center;
+    color: #07443d;
+    font-size: 2.4em;
+    margin-bottom: 25px;
+    
+}
+
+
+.servicios_p{
+    justify-content: centers;
+    text-align: center;
+    font-size: 1.6em;
+    font-family: Calibri;
+    color: grey;    
+    
+}
+
+
+.servicio_img{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}

@@ -1,0 +1,35 @@
+
+ @media (max-width: 880px){
+     .main{
+         height: 100%;
+     }
+ }
+ 
+ @media(max-width: 950px){
+     .main{
+         flex-wrap: wrap;
+     }
+     .main2{
+         margin-left: 150px;
+     }
+ }
+ 
+ @media(max-width: 728px){
+     .servicios{
+         display: inline;
+         /* max-width: 720px; */
+     }
+ 
+     ul{
+         display: none;
+     }
+ 
+   
+ } 
+
+@media(max-width: 650px) {
+    
+    .main1 h1{
+       font-size: 1.6em;
+    
+}}
